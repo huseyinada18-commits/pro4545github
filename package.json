@@ -1,0 +1,8 @@
+﻿{
+  "name": "45-prolar-outdoor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "vite", "build": "vite build" },
+  "devDependencies": { "vite": "^7.1.0" }
+}
